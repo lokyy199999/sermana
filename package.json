@@ -1,0 +1,30 @@
+{
+  "name": "sermana",
+  "version": "1.0.0",
+  "description": "A simple JavaScript package for manipulating dates and times.",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lokyy199999/sermana.git"
+  },
+  "keywords": [
+    "date",
+    "time",
+    "week",
+    "manipulation",
+    "javascript"
+  ],
+  "author": "lokyy199999",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lokyy199999/sermana/issues"
+  },
+  "homepage": "https://github.com/lokyy199999/sermana",
+  "dependencies": {
+    "moment": "^2.29.1",
+    "lodash": "^4.17.21"
+  }
+}
